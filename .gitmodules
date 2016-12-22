@@ -1,0 +1,12 @@
+[submodule "Python"]
+	path = Python_practice
+	url = https://github.com/pmrhappy/Python_practice.git
+[submodule "C_CPP"]
+	path = C_CPP_practice
+	url = https://github.com/pmrhappy/C_CPP_practice.git
+[submodule "Batch"]
+	path = Batch_practice
+	url = https://github.com/pmrhappy/Batch_practice.git
+[submodule "Javascript"]
+	path = Javascript_practice
+	url = https://github.com/pmrhappy/Javascript_practice.git
